@@ -1,0 +1,6 @@
+To experiment with:
+-camera above player as he/she moves
+-boosting rocket
+-rotating
+-loading levels
+-sound
