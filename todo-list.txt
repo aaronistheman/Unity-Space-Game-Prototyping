@@ -1,4 +1,5 @@
 To experiment with:
+-QUESTION: how does the delegate and such work?
 -camera above player as he/she moves
 -boosting rocket
 -rotating
